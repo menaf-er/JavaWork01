@@ -1,5 +1,5 @@
   /*
-     Bu uygulama kulanıcıların bir ArrayListe kayıt zamanını da alarak
+     Bu uygulama: kulanıcıların bir ArrayListe kayıt zamanını da alarak
      ekleyen ve sonrasında her dakikanın ilk 10 saniyesinde kaydolanları
      şanslı kullanıcı olarak ekrana yazdıran bir uygulamadır.
      Bunun için;
